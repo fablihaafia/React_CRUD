@@ -1,0 +1,28 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Nihira",
+      "email": "nihiratechiees@gmail.com",
+      "phone": "98899090"
+    },
+    {
+      "name": "tasfia",
+      "email": "tasf@gmail.com",
+      "phone": "1234",
+      "id": 3
+    },
+    {
+      "name": "arfa",
+      "email": "arfa",
+      "phone": "123",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "fablihaafia",
+      "email": "fabliha1afia@gmail.com",
+      "phone": "+8801521461795"
+    }
+  ]
+}
